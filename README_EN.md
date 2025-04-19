@@ -31,7 +31,7 @@ cd imdb-sentiment-analysis
 chmod +x run.sh
 ./run.sh
 ```
-## For Windows Users:
+### For Windows Users:
 
 You can start the project by running the following command:
 
