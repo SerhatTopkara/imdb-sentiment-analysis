@@ -38,6 +38,12 @@ Projeyi çalıştırın:
 ```bash
 ./run.sh
 ```
+## Windows Kullanıcıları İçin:
+
+Aşağıdaki komutu çalıştırarak projeyi başlatabilirsiniz:
+
+```bat
+run_Windows.bat
 
 İsteğe bağlı argümanlar:
 ```bash
