@@ -31,6 +31,12 @@ cd imdb-sentiment-analysis
 chmod +x run.sh
 ./run.sh
 ```
+### Windows Kullanıcıları İçin:
+
+Aşağıdaki komutu çalıştırarak projeyi başlatabilirsiniz:
+
+```bat
+run_Windows.bat
 
 ## Kullanım
 
@@ -38,13 +44,6 @@ Projeyi çalıştırın:
 ```bash
 ./run.sh
 ```
-## Windows Kullanıcıları İçin:
-
-Aşağıdaki komutu çalıştırarak projeyi başlatabilirsiniz:
-
-```bat
-run_Windows.bat
-
 İsteğe bağlı argümanlar:
 ```bash
 ./run.sh --skip-preprocessing  # Veri önişleme adımını atla
