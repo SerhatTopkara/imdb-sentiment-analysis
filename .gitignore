@@ -1,0 +1,95 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+.hypothesis/
+
+# Sanal Ortam
+venv/
+ENV/
+env/
+.env/
+.venv/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# Proje veri dosyaları
+data/*.npy
+data/*.csv
+data/*.pkl
+data/*.h5
+data/*.json
+data/*.txt
+models/*.pkl
+models/*.h5
+models/*.joblib
+
+# Görsel çıktılar
+results/*.png
+results/*.jpg
+results/*.jpeg
+results/*.pdf
+results/*.svg
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+*.ipynb_checkpoints/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Log dosyaları
+*.log
+logs/
+log/
+
+# Geçici dosyalar
+*.tmp
+*.temp
+.temp/
+tmp/
+temp/
+
+# Özel dosyalar
+.env
+.env.local
+.env.*.local
+config.ini
+credentials.json 
